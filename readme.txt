@@ -1,1 +1,3 @@
 This piece of text was created with the notes app.  It will be used by slightly-future Steve to complete an assignment on git-it.
+
+The text has now been edited by significantly-farther-in-the-future Steve.  Struggling to find a way to open the text file from the command line.  Finally, typed "open readme.txt" and the file opened in the text editor I used to create it, which was TextEdit.  I was expecting it to open in VSC, and am now wondering if I have something configured incorrectly.
