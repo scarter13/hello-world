@@ -1,0 +1,1 @@
+This piece of text was created with the notes app.  It will be used by slightly-future Steve to complete an assignment on git-it.
